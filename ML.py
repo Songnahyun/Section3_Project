@@ -25,3 +25,6 @@ model = pipe.fit(X_train, y_train)
 
 with open('model.pkl', 'wb') as pickle_file:
     pickle.dump(model, pickle_file)
+
+
+    

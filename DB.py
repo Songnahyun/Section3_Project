@@ -21,3 +21,5 @@ df_json = df.to_json(orient = "records")
 data = json.loads(df_json)
 
 collection.insert_many(data)
+
+

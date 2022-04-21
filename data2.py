@@ -52,3 +52,5 @@ def Scrapping():
     df2.to_csv("data2.csv")
 
 Scrapping()
+
+

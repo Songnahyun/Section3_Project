@@ -38,3 +38,6 @@ print('CSV파일의 데이터가 DB에 입력되었습니다.')
 
 cur.close()
 conn.close()
+
+
+

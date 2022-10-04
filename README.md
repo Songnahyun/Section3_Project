@@ -36,6 +36,9 @@
 - FLASK를 통한 추천 웹서비스 구현
 - 사용자가 원하는 제품 카테고리, 나이, 피부타입, 성별을 입력하면 제품 추천
 
+<img width="1297" alt="스크린샷 2022-10-04 오후 11 22 36" src="https://user-images.githubusercontent.com/49776542/193846245-8129a34d-ad68-4157-8d8e-b6b0a3080806.png">
+<img width="1091" alt="스크린샷 2022-10-04 오후 11 22 51" src="https://user-images.githubusercontent.com/49776542/193846281-9a26e658-492c-4895-a6f5-b693d9cde708.png">
+
 
 ### 한계점 및 해결방안
 

@@ -29,6 +29,11 @@
 3. 분석 모델 관련 학습 및 구현
 4. FLASK를 통한 웹서비스 구현
 
+### 파이프라인
+
+<img width="899" alt="스크린샷 2023-07-20 오후 6 31 16" src="https://github.com/Songnahyun/Section3project/assets/49776542/9f77b796-ca7b-4183-93bc-ba60eee9f011">
+
+
 ### 결과정리
 
 - 결정트리 모델 사용
